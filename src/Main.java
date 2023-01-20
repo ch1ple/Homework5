@@ -6,7 +6,7 @@ public class Main {
         task2();
         task3();
         task4();
-        task5();
+        task15();
     }
 
     public static void task1() {
@@ -56,7 +56,7 @@ public class Main {
             System.out.println("Доставки нет");
         }
     }
-    public static void task5 () {
+    public static void task15 () {
         System.out.println("Задача 5");
         int monthNumber = 12;
         switch (monthNumber) {
